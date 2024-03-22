@@ -86,4 +86,4 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## License
 
-Specify the license under which your project is released.
+
