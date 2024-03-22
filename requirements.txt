@@ -1,0 +1,7 @@
+chunkipy
+elasticsearch==8.12.1
+kaggle==1.6.6
+opendatasets==0.1.22
+pandas==2.2.1
+sentence-transformers==2.5.1
+streamlit==1.12.0 # You may need to add the appropriate version for streamlit
