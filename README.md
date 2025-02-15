@@ -84,6 +84,3 @@ Enter a query in the search box and press Enter. The search engine will return a
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-
-
